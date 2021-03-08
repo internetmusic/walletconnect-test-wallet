@@ -9,6 +9,7 @@ const GlobalStyle = createGlobalStyle`
   ${globalStyle}
 `;
 
+
 ReactDOM.render(
   <>
     <GlobalStyle />
