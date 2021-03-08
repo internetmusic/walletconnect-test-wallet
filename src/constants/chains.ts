@@ -104,7 +104,7 @@ export const SUPPORTED_CHAINS: IChainData[] = [
     network: "kovan",
     chain_id: 42,
     network_id: 42,
-    rpc_url: "https://kovan.infura.io/v3/%API_KEY%",
+    rpc_url: "https://kovan.infura.io/v3/82d80c891d5546b7b90381379902c826",
     native_currency: {
       symbol: "ETH",
       name: "Ether",
