@@ -108,6 +108,7 @@ export function renderEthereumRequests(payload: any): IRequestRenderParams[] {
 export async function signEthereumRequests(payload: any, state: IAppState, setState: any) {
   const { connector, address, activeIndex, chainId } = state;
 
+
   let errorMsg = "";
   let result = null;
 
