@@ -8,7 +8,7 @@ export const SUPPORTED_CHAINS: IChainData[] = [
     network: "mainnet",
     chain_id: 1,
     network_id: 1,
-    rpc_url: "https://mainnet.infura.io/v3/%API_KEY%",
+    rpc_url: "https://mainnet.infura.io/v3/82d80c891d5546b7b90381379902c826",
     native_currency: {
       symbol: "ETH",
       name: "Ether",
@@ -24,7 +24,7 @@ export const SUPPORTED_CHAINS: IChainData[] = [
     network: "ropsten",
     chain_id: 3,
     network_id: 3,
-    rpc_url: "https://ropsten.infura.io/v3/%API_KEY%",
+    rpc_url: "https://ropsten.infura.io/v3/82d80c891d5546b7b90381379902c826",
     native_currency: {
       symbol: "ETH",
       name: "Ether",
@@ -40,7 +40,7 @@ export const SUPPORTED_CHAINS: IChainData[] = [
     network: "rinkeby",
     chain_id: 4,
     network_id: 4,
-    rpc_url: "https://rinkeby.infura.io/v3/%API_KEY%",
+    rpc_url: "https://rinkeby.infura.io/v3/82d80c891d5546b7b90381379902c826",
     native_currency: {
       symbol: "ETH",
       name: "Ether",
@@ -56,7 +56,7 @@ export const SUPPORTED_CHAINS: IChainData[] = [
     network: "goerli",
     chain_id: 5,
     network_id: 5,
-    rpc_url: "https://goerli.infura.io/v3/%API_KEY%",
+    rpc_url: "https://goerli.infura.io/v3/82d80c891d5546b7b90381379902c826",
     native_currency: {
       symbol: "ETH",
       name: "Ether",
